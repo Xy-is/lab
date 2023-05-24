@@ -1,0 +1,74 @@
+C:\Users\dmitr\source\repos\Solidworks_Lab\bin\Debug\Solidworks_Lab.exe.config
+C:\Users\dmitr\source\repos\Solidworks_Lab\bin\Debug\Solidworks_Lab.exe
+C:\Users\dmitr\source\repos\Solidworks_Lab\bin\Debug\Solidworks_Lab.pdb
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.Form1.resources
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.Properties.Resources.resources
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.exe
+C:\Users\dmitr\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.pdb
+C:\Users\user\source\repos\Solidworks_Lab\bin\Debug\Solidworks_Lab.exe.config
+C:\Users\user\source\repos\Solidworks_Lab\bin\Debug\Solidworks_Lab.exe
+C:\Users\user\source\repos\Solidworks_Lab\bin\Debug\Solidworks_Lab.pdb
+C:\Users\user\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.Form1.resources
+C:\Users\user\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.Properties.Resources.resources
+C:\Users\user\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.exe
+C:\Users\user\source\repos\Solidworks_Lab\obj\Debug\Solidworks_Lab.pdb
+C:\Users\user\Desktop\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.Form1.resources
+C:\Users\user\Desktop\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.Properties.Resources.resources
+C:\Users\user\Desktop\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.exe
+C:\Users\user\Desktop\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.pdb
+C:\Users\user\Desktop\Solid\Lab5api3D\bin\Debug\Solidworks_Lab.exe.config
+C:\Users\user\Desktop\Solid\Lab5api3D\bin\Debug\Solidworks_Lab.exe
+C:\Users\user\Desktop\Solid\Lab5api3D\bin\Debug\Solidworks_Lab.pdb
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.Form1.resources
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.Properties.Resources.resources
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.exe
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\obj\Debug\Solidworks_Lab.pdb
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\bin\Debug\Solidworks_Lab.exe.config
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\bin\Debug\Solidworks_Lab.exe
+C:\Users\user\Desktop\DOC\Solid\Lab5api3D\bin\Debug\Solidworks_Lab.pdb
+C:\Users\Компьютер\Desktop\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.AssemblyReference.cache
+C:\Users\Компьютер\Desktop\Lab5api3D\obj\Debug\Solidworks_Lab.Form1.resources
+C:\Users\Компьютер\Desktop\Lab5api3D\obj\Debug\Solidworks_Lab.Properties.Resources.resources
+C:\Users\Компьютер\Desktop\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.GenerateResource.cache
+C:\Users\Компьютер\Desktop\Lab5api3D\obj\Debug\Solidworks_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер\Desktop\Lab5api3D\obj\Debug\Solidworks_Lab.exe
+C:\Users\Компьютер\Desktop\Lab5api3D\obj\Debug\Solidworks_Lab.pdb
+C:\Users\Компьютер\Desktop\Lab5api3D\bin\Debug\Solidworks_Lab.exe.config
+C:\Users\Компьютер\Desktop\Lab5api3D\bin\Debug\Solidworks_Lab.exe
+C:\Users\Компьютер\Desktop\Lab5api3D\bin\Debug\Solidworks_Lab.pdb
+C:\Users\michw\OneDrive\Рабочий стол\kursach\bin\Debug\Solidworks_Lab.exe.config
+C:\Users\michw\OneDrive\Рабочий стол\kursach\bin\Debug\Solidworks_Lab.exe
+C:\Users\michw\OneDrive\Рабочий стол\kursach\bin\Debug\Solidworks_Lab.pdb
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.csproj.AssemblyReference.cache
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.Form1.resources
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.Properties.Resources.resources
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.csproj.GenerateResource.cache
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.csproj.CoreCompileInputs.cache
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.exe
+C:\Users\michw\OneDrive\Рабочий стол\kursach\obj\Debug\Solidworks_Lab.pdb
+D:\BNTU\Зимницкий\bin\Debug\Solidworks_Lab.exe.config
+D:\BNTU\Зимницкий\bin\Debug\Solidworks_Lab.exe
+D:\BNTU\Зимницкий\bin\Debug\Solidworks_Lab.pdb
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.csproj.AssemblyReference.cache
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.csproj.SuggestedBindingRedirects.cache
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.Form1.resources
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.Properties.Resources.resources
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.csproj.GenerateResource.cache
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.csproj.CoreCompileInputs.cache
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.exe
+D:\BNTU\Зимницкий\obj\Debug\Solidworks_Lab.pdb
